@@ -1,0 +1,49 @@
+<DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pweb</title>
+    <style>
+        body {
+            background-image: url("https://www.slashfilm.com/img/gallery/happier-than-ever-trailer-billie-eilishs-new-concert-movie-heads-to-disney/l-intro-1629833259.jpg"); 
+            background-size: cover;
+            background-attachment: fixed;
+        }
+
+        p {
+            color: gray;
+            background: rgba(10, 12, 50, 0.4);
+            padding: 10px;
+        }
+
+        table {
+            border: 3px solid gray;
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        td, th {
+            border: 3px solid gray;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <p>INTERNACIONAL</p>
+
+    <table>
+        <tr>
+            <th>PRÊMIOS</th>
+            <th>PRÊMIOS</th>
+        </tr>
+        <tr>
+            <td>9 GRAMMYNS</td>
+            <td>2 OSCARS</td>
+        </tr>
+    </table>
+
+</body>
+</html>
